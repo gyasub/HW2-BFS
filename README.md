@@ -1,3 +1,5 @@
+![BuildStatus](https://github.com/gyasub/HW2-BFS/workflows/Pytest/badge.svg?event=push)
+
 # Assignment 2
 Breadth-first search
 
